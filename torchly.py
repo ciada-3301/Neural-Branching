@@ -1,10 +1,12 @@
 """
-NeuralNet - A Simple PyTorch Wrapper for Easy Neural Network Training
+Torchly - A Simple PyTorch Wrapper for Easy Neural Network Training
 Author: Arkadyuti Maiti
 Version: 1.0.0
 
 A comprehensive yet simple wrapper over PyTorch for creating, training, 
 and managing neural networks with minimal code.
+
+Original Github Repository: https://github.com/ciada-3301/Torchly
 """
 
 import torch
